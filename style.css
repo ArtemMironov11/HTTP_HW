@@ -148,7 +148,7 @@ a {
     flex-direction: column;
     flex-wrap: nowrap;
     gap: 10px;
-    padding: 18px;
+    padding: 18px;;
 }
 
 .price {
